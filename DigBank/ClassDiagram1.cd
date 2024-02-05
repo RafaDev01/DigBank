@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DigBank.Classes.Banco">
+    <Position X="1.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Banco.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigBank.Classes.Conta">
+    <Position X="3.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIIAAAAAAAAAAAAAAAAAAAXAAAAAIAAAAAAEA=</HashCode>
+      <FileName>Classes\Conta.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DigBank.Classes.ContaCorrente">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\ContaCorrente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigBank.Classes.Layout">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAgAAgQAAAQAAAAACAAAEQBAAAAAAQA=</HashCode>
+      <FileName>Classes\Layout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DigBank.Classes.Pessoa">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAACAACAAAQAAAAAAgAEAgAA=</HashCode>
+      <FileName>Classes\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DigBank.Contratos.IConta">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAIAAAAAAAAAAAAAAAAAAAAHAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Contratos\IConta.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
